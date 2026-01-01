@@ -14,6 +14,7 @@ llm = ChatOpenAI(
     stream_usage=True
 )
 
+
 messages = [
     (
         "system",
